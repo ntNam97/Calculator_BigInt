@@ -1,0 +1,14 @@
+﻿  stdafx.cpp
+  QIntGUIDlg.cpp
+c:\users\nguyenthanhnam\downloads\1512617_1512339\1512617_1512339\source\qintgui\sol_string.h(64): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+c:\users\nguyenthanhnam\downloads\1512617_1512339\1512617_1512339\source\qintgui\sol_string.h(86): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+c:\users\nguyenthanhnam\downloads\1512617_1512339\1512617_1512339\source\qintgui\sol_string.h(110): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+c:\users\nguyenthanhnam\downloads\1512617_1512339\1512617_1512339\source\qintgui\sol_string.h(127): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+c:\users\nguyenthanhnam\downloads\1512617_1512339\1512617_1512339\source\qintgui\sol_string.h(165): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+c:\users\nguyenthanhnam\downloads\1512617_1512339\1512617_1512339\source\qintgui\qint.h(164): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+c:\users\nguyenthanhnam\downloads\1512617_1512339\1512617_1512339\source\qintgui\qint.h(302): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+c:\users\nguyenthanhnam\downloads\1512617_1512339\1512617_1512339\source\qintgui\file.h(21): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+c:\users\nguyenthanhnam\downloads\1512617_1512339\1512617_1512339\source\qintgui\file.h(30): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  QIntGUI.cpp
+  Generating Code...
+  QIntGUI.vcxproj -> C:\Users\NGUYENTHANHNAM\Downloads\1512617_1512339\1512617_1512339\Source\x64\Debug\QIntGUI.exe
